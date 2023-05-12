@@ -36,8 +36,6 @@ https://playback.akamaized.net/streams/27456795_10633798_lsi4sewep4spakrmc6m_1/m
 #EXTINF:-1 tvg-id="Telecentro" tvg-logo="https://telecentro.com.do/wp-content/uploads/2021/08/logo01.png"General",Telecentro 13
 https://playback.akamaized.net/streams/27456795_10234042_lsik02cpelj3t6a2iew_1/media/27456795_10234042_lsik02cpelj3t6a2iew_1@5256000p.m3u8?dw=14400&ts=1683849600&hdnts=exp=1684022914~acl=/streams/27456795_10234042_lsik02cpelj3t6a2iew_1/media*~hmac=75a95992627629c93c30721a70e7851f259a9c994d4e9da0ab1a73befb45cfe8
 
-#EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas (Full HD)
-https://stream-10.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2rGq8ut7FBhP8k0afHcwZSKhanoZ7UWOazBsCOpcgXRS)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
 
 #EXTINF:-1 tvg-id="Color Vision 9" tvg-logo=https://colorvision.com.do/wp-content/uploads/2021/05/LOGO-HD-full.png" group-title="General",Color Vision 9 (Full HD)
 https://stream-01.dc3.dailymotion.com/sec(O-7bth6lxCIslucX64-RY3YQFsZsya_c1dJLGLlglUhQ0Wl6lc2eGhgZX1jY4kIQ)/dm/3/x7gy059/d/live-4.m3u8#cell=lcore
@@ -51,15 +49,9 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/c
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
 
-#EXTINF:-1 tvg-id="History" tvg-logo="https://www.diligent.es/wp-content/uploads/2016/03/branding-history-channel.jpg" group-title="Undefined",History 
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CogFMCL03udcn9sXeX4U7TxmULP3WCdRB0IVz1Mgpwy8zr0KrTAN5_-imaUCFLIUl_OcEU0Q667YmhIRJAV9Lb5XruEj72kR5udirvINj0YW0y-VrH5vAWdUziDqvtrcbGhy85KPfoiaQucmJoLfAinJzNM4FaH8AxbyzlhVpshL_XEqPbTuMLzZDGK8-Vya9gEkM9Wke7QanG8YRGnggZKqXh0QiApfVMe9KhY6HYBMiXrEQkGqVdlbRh0I0CZb9-NNodij_O-khMpfbE3CUM8ycvvPnisl59JcJ6HD5QhDA_C2KWG2NTU6AEfcCKoy_eGZMQyY30NVlQLWB28QynfRjHZCi4vCrUfP2U4OZBbcDc7_4-5zFYN4MMv102-AQB8ShI89AkFb1IxnB0zKn90Ty2_s86Sf5uzOjBYUQspKWvhbOz60083ST1voDIz3SiL3ywbrsh5ZtRPq5AqhvhlG6fuxhgRvdvyAWB3Boxwi1km-cyMqzNd1wP3LHrgnyN8fuM77iiU5T4zYrVvkL-5jNh3d72NXfegesWIstB357g1PQBYrAUGXvszCweyeQx-33YRHfYAaR-oQt4k878jWmzj3IBFj-89rRxk1DTwrL8BtdSW2xcEvkfSvhVW1APl1JpR-GfTNJoTD0eS8jxtNthbB-_yuRsToRQI1ta5PzUG9zUD59HnFBfRgRHwZHQ9Yo514WPf2pFnqeeNeSFro-rXWmYiVlMXF7kHQDORI5RChnoVrgRzivoRZIsgKeN-cCF9as10VaK84LEDZKsLlQI7I_lnalQugjeB2PzZcxOyTx6-6Nju6PO5yMLjGgYZrkwQzLImHlkqlF4DgTrWuTRthinmnlqA7Ggzvt1tjXPhbffQ7tbQgASoJZXUtd2VzdC0yMMQG.m3u8
-
-
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://www.sintelevisionhd.com/img/disney.png" group-title="Undefined",Disney Channel
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoUFsfPGUjU3ADgb7i9zcurPle92Qwnf06fQBFLiK-7HwObRag6v7rvNdLtJ4lz3nrKguZVqDNpuPd18ox5POMKqpqDXBsJHcrTZHN2mHAiSzaIuYIj0INIsg7G8W6hccok4w2JfrUSFZSgNy74pewtpZItWtK2eRruFl2vo5M6qICz_kMf1oQ40r140jZ9ppHQx0zODWpk2fqY3S1Naq-8ze7ymvXf1AMLskyodzMMkmqZGaxAq_gSwMIfs5ORbY8df448CILo0pYG625jJ_cjxO0tsI0Kk-F31KDB96TLUUp9GRZIIRtqvqFq5-AemeXk19xZz8w8cSdM18SBXbWSnI-GAknK4f-jN_-9NWly9P2BwjkpcepCUxjLNbBzsJV21NzdfjD_VeW7yCfRRPaoIkNTv3xRjhj2J3sfjCl3pYbx3P1v3az-qxSQYZpVny3oiCSG678o1_u041275G_vlUuqIDXCv_QUUvttX07vd1GgokLvwNY0CvC6ml9-DHKKXlKrOrQKPkBHyTp3Pw6EdY0vs5YZVXCbEqTpYZjaeypzP_JP-rMmoz8VQGLEkGtLx54_GHKzYSl53NE-ALT8hoaFUdBi8x3Dyl4OAsBYECcW6iwnrJ1BR5KLdg7FlN1v5lLOFLA4_li0wjOfZIRMLs_q0sg-V8Z-TsbcilkVcTuX06S6YChb07Ef3nbhaUTeUcpRCDGi9h7FxNVtw6zpDKIhX3hhyQy4KDvlba53o4xPEOOrmQ5_9Z7AN8N9mj-_SwwXofQJH91LQoilLGWrR9U11eFKe_V-sNFObVYDK7ZnIc_g2oWf0Ihzmlr2xdZTuVOegqlGbi97TK4ov0oi33AO4w9h0GgwlQzwe6rl7L4ne5WggASoJZXUtd2VzdC0yMMQG.m3u8
 
 #EXTINF:-1 tvg-id="Telecentro" tvg-logo="https://telecentro.com.do/wp-content/uploads/2021/08/logo01-150x150.png" group-title="Undefined",Telecentro (HD)
-https://playback.akamaized.net/streams/27456795_10234042_lsik02cpelj3t6a2iew_1/media/27456795_10234042_lsik02cpelj3t6a2iew_1@5256000p.m3u8?dw=14400&ts=1683846000&hdnts=exp=1684019725~acl=/streams/27456795_10234042_lsik02cpelj3t6a2iew_1/media*~hmac=c09e1ba0b86d66326af71dfc6f3fdd563c6e485101b5e3d46bf6fc80e5fb67e2
+https://playback.akamaized.net/streams/27456795_10234042_lsiyec5dbvi290utjhe_1/media/27456795_10234042_lsiyec5dbvi290utjhe_1@5256000p.m3u8?dw=14400&ts=1683903600&hdnts=exp=1684078559~acl=/streams/27456795_10234042_lsiyec5dbvi290utjhe_1/media*~hmac=08c51b3fad3be114bb94ce5815158cdcf60a01dfc7c2fd6f4fa55b41d55af99d
 
 #EXTINF:-1 tvg-id="DiscoveryKids2 " tvg-logo="https://www.sintelevisionhd.com/img/dkids.png" group-title="Undefined",Discovery Kids 2
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
