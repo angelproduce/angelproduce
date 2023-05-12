@@ -99,7 +99,7 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Infantil",Anime Zone TV
 https://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="TNTKidsTV.ba" tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="Kids",TNT Kids (288p)
+#EXTINF:-1 tvg-id="TNTKidsTV.ba" tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="Infantil",TNT Kids (288p)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
 
 #EXTINF:-1 tvg-id="NickJrenEspanol.us" tvg-logo="https://i.imgur.com/OmmWgcr.png" group-title="Infantil",Pluto TV Nick Jr. Latino 
