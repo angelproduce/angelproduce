@@ -32,11 +32,6 @@ https://d1coqlhpf8wrax.cloudfront.net/hls/canal21_360.m3u8
 #EXTINF:-1 tvg-id="Digital15" tvg-logo="https://www.seekpng.com/png/detail/695-6950286_digital-quince-on-screen.png"Programacion",Digital 15 (HD)
 https://playback.akamaized.net/streams/27456795_10633798_lsi4sewep4spakrmc6m_1/media/27456795_10633798_lsi4sewep4spakrmc6m_1@2756000p.m3u8?dw=14400&ts=1683849600&hdnts=exp=1684022646~acl=/streams/27456795_10633798_lsi4sewep4spakrmc6m_1/media*~hmac=857b5298fd9b6f30ad41e294cb7694ca160acf3249aa8b8143814dc029410766
 
-
-#EXTINF:-1 tvg-id="Telecentro" tvg-logo="https://telecentro.com.do/wp-content/uploads/2021/08/logo01.png"General",Telecentro 13
-https://playback.akamaized.net/streams/27456795_10234042_lsik02cpelj3t6a2iew_1/media/27456795_10234042_lsik02cpelj3t6a2iew_1@5256000p.m3u8?dw=14400&ts=1683849600&hdnts=exp=1684022914~acl=/streams/27456795_10234042_lsik02cpelj3t6a2iew_1/media*~hmac=75a95992627629c93c30721a70e7851f259a9c994d4e9da0ab1a73befb45cfe8
-
-
 #EXTINF:-1 tvg-id="Color Vision 9" tvg-logo=https://colorvision.com.do/wp-content/uploads/2021/05/LOGO-HD-full.png" group-title="General",Color Vision 9 (Full HD)
 https://stream-01.dc3.dailymotion.com/sec(O-7bth6lxCIslucX64-RY3YQFsZsya_c1dJLGLlglUhQ0Wl6lc2eGhgZX1jY4kIQ)/dm/3/x7gy059/d/live-4.m3u8#cell=lcore
 
