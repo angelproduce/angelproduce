@@ -169,6 +169,15 @@ https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito México 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-id="NetalkoleTV " tvg-logo="https://image.roku.com/developer_channels/prod/3e29a6f245b27eee2ba0f40056810475af4d93211c5a77439faae997f2ea5d1d.png" group-title="Cultura",Netalkole TV (Haiti)
+https://watch.haitilive.net/gethb/naktv/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
 
 
 
