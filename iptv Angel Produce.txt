@@ -182,7 +182,6 @@ https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito México 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="plutokids" tvg-logo="https://i.vimeocdn.com/video/925289230-80d7bb051889c04c4b3ced9a139b1033c0196b2af956a7b955863429bbcfa500-d" group-title="Infantil",Pluto Kids
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/2142297/playlist.m3u8
+
 
 
