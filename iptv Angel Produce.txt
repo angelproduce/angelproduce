@@ -60,7 +60,7 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b3112000_
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w1152368277.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKids2 " tvg-logo="https://www.sintelevisionhd.com/img/dkids.png" group-title="Undefined",ESPN 5555
-https://coolcast2.com/8263b2ae-5e76-48da-bdbf-2d3867fa6e56
+https://vkvsd18.mycdn.me/hls/3453069232666.m3u8/sig/MnEr8JA3VV8/expires/1673810923871/srcIp/95.17.170.240/urls/185.226.52.66/clientType/13/srcAg/CHROME_ANDROID/mid/4460647099162/3453069232666_high/index.m3u8
 
 #EXTINF:-1 tvg-id="Discoveryhomeandhealth" tvg-logo="https://www.brandemia.org/wp-content/uploads/2011/05/logo_ok.jpg" group-title="Undefined",Discovery home and health
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoUFR7U-Y2Nu8Q-1Qk2BNeVLemWtRVWNQ9QpBCgUWFEHVRojkOA1_n4pvd62fqvEpE1cy4VdepR0MxJo9sqsyKEr2EnEQ_ztGkhCbd9xdYyHKHnL3AufafKxAGJ0HSHbc5eet6hdXWu3IAtsxBehRZv5BrtZ8HZUreICHofmq9p9tsJY_7WJbARWmba3mjlmcQbTQL9Z4q_Ux3HI5Yck2AaMA7iwKkUDHEdou9BRqxjkD0nimPQVvDS3RcTXkvYyAvrmSdWVmsLZqRJvE1EPX_MzX-RhdlHeox5h5uwcLXnQfxipDRFHZxqRZcHi2ti9JAr-xAMWKgyifwbUSbXnIcSFOZHCiTlX7rpmY1bVt6BuzR8JPo4XVxRBxWSwM843mr7GEn8W3d8DiSCJL1Soop5rhW4BHjiSo2MLL4FXwBSpk-9tsw8W0rMpGsXSuzn8hc9M4F6ysDtVsWUXph_xSLxJsoP-e8RpKlLrpMD4FU7_pgGwYzupZF384EhdOUQZhdCoHzDKvCcXpRfCLR4T4N9pq1iFwEPrd7gUETppLBHPThB30eZQzSsgXki9ObscJru7srjn_W6h0X0cJ9k5GJvquN82UDLJD79K3k10CxnOzXf185XWHjsh4PAT0klHYuV7BDBqfXt4adnQFKCAVbQKhmx85CDVVdKzov4kWIlKuT32tYYTzRnyJSUfBYBT6WOZSKMdFN7y80GyKVUBHTxyQ1Pf4UnrNhap7cV_7XkK7dRfTfVvlgUsKjzg8Zi9szmwMQLOsn40tZ0StGhuPveLI_OasLYxoArIfV_FO5a2G2JHAp2DHN8VulvN_sQ52zbtPV3eS9BncU7FeWZTH87hrEV80z83GgxC3xLxVNQhJeQaafQgASoJZXUtd2VzdC0yMMYG.m3u8
