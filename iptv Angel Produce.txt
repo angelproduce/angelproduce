@@ -40,14 +40,12 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/c
 #EXTINF:-1 tvg-id="Cartoonertwork" tvg-logo=https://1000marcas.net/wp-content/uploads/2020/03/logo-Cartoon-Network.png" group-title="General",Cartoon Network (Full HD)
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Telecentro" tvg-logo="https://telecentro.com.do/wp-content/uploads/2021/08/logo01-150x150.png" group-title="Undefined",Telecentro (HD)
 https://playback.akamaized.net/streams/27456795_10234042_lsievrnxylgrmq455xz_1/media/27456795_10234042_lsievrnxylgrmq455xz_1@5256000p.m3u8?dw=14400&ts=1687014000&hdnts=exp=1687189825~acl=/streams/27456795_10234042_lsievrnxylgrmq455xz_1/media*~hmac=604318eec45475a84c11352bf1588a4ed498d37ca21cb40d2f6c27d250776af5
 
+
 #EXTINF:-1 tvg-id="DiscoveryKids2 " tvg-logo="https://www.sintelevisionhd.com/img/dkids.png" group-title="Undefined",Discovery Kids 2
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
-
 
 
 #EXTINF:-1 tvg-id="Enlace" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png?resize=768%2C432&ssl=1" group-title="Undefined",Enlace
