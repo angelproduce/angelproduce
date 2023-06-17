@@ -16,7 +16,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://live.teledom.info:3625/live/tra45live.m3u8
 
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Telemicro_2002_2.png" group-title="General",Telemicro (Full HD)
-https://playback.akamaized.net/streams/27456795_10633780_lsiq4hiodpiqgovbhji_1/media/27456795_10633780_lsiq4hiodpiqgovbhji_1@5256000p.m3u8?dw=14400&ts=1683907200&hdnts=exp=1684080059~acl=/streams/27456795_10633780_lsiq4hiodpiqgovbhji_1/media*~hmac=552f26695ae596dc0abe035e781b846aed11dba17c8cd91dac8d9cf435e94b2f
+https://playback.akamaized.net/streams/27456795_10633780_lsinfs6ttdb800jmaxh_1/media/27456795_10633780_lsinfs6ttdb800jmaxh_1@5256000p.m3u8?dw=14400&ts=1687014000&hdnts=exp=1687189491~acl=/streams/27456795_10633780_lsinfs6ttdb800jmaxh_1/media*~hmac=2acd314a00b736b77c416c3ac7d6750b4406a0a4d97fb5aab2c85e09ef84af67
 
 #EXTINF:-1 tvg-id="Antena7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Antena_Latina_2016.png/revision/latest/scale-to-width-down/200?cb=20200426023109" group-title="General",Antena 7
 https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
@@ -27,10 +27,10 @@ https://d1coqlhpf8wrax.cloudfront.net/hls/canal21_360.m3u8
 
 
 #EXTINF:-1 tvg-id="Digital15" tvg-logo="https://www.seekpng.com/png/detail/695-6950286_digital-quince-on-screen.png"Programacion",Digital 15 (HD)
-https://playback.akamaized.net/streams/27456795_10633798_lsi4sewep4spakrmc6m_1/media/27456795_10633798_lsi4sewep4spakrmc6m_1@2756000p.m3u8?dw=14400&ts=1683849600&hdnts=exp=1684022646~acl=/streams/27456795_10633798_lsi4sewep4spakrmc6m_1/media*~hmac=857b5298fd9b6f30ad41e294cb7694ca160acf3249aa8b8143814dc029410766
+https://playback.akamaized.net/streams/27456795_10633798_lsil1bkxbexj5s57kye_1/media/27456795_10633798_lsil1bkxbexj5s57kye_1@2756000p.m3u8?dw=14400&ts=1687014000&hdnts=exp=1687189600~acl=/streams/27456795_10633798_lsil1bkxbexj5s57kye_1/media*~hmac=94a8578431d88ffeda374a5950560e21ce9a4991262f5c326a2a96a71f535647
 
 #EXTINF:-1 tvg-id="Color Vision 9" tvg-logo=https://colorvision.com.do/wp-content/uploads/2021/05/LOGO-HD-full.png" group-title="General",Color Vision 9 (Full HD)
-https://stream-01.dc3.dailymotion.com/sec(O-7bth6lxCIslucX64-RY3YQFsZsya_c1dJLGLlglUhQ0Wl6lc2eGhgZX1jY4kIQ)/dm/3/x7gy059/d/live-4.m3u8#cell=lcore
+https://stream-03.dc3.dailymotion.com/sec(O-7bth6lxCIslucX64-RY2Bq1z-bWjTryhDtKycvZCt2UQzN4qJGOHTnzGilEb8S)/dm/3/x7gy059/d/live-4.m3u8#cell=lcore
 
 
 #EXTINF:-1 tvg-id="CDN" tvg-logo=https://cdn.com.do/wp-content/uploads/2022/05/1edd3810-logo-autor-150x150.jpeg" group-title="General",CDN (Full HD)
@@ -43,7 +43,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
 
 #EXTINF:-1 tvg-id="Telecentro" tvg-logo="https://telecentro.com.do/wp-content/uploads/2021/08/logo01-150x150.png" group-title="Undefined",Telecentro (HD)
-https://playback.akamaized.net/streams/27456795_10234042_lsiyec5dbvi290utjhe_1/media/27456795_10234042_lsiyec5dbvi290utjhe_1@5256000p.m3u8?dw=14400&ts=1683903600&hdnts=exp=1684078559~acl=/streams/27456795_10234042_lsiyec5dbvi290utjhe_1/media*~hmac=08c51b3fad3be114bb94ce5815158cdcf60a01dfc7c2fd6f4fa55b41d55af99d
+https://playback.akamaized.net/streams/27456795_10234042_lsievrnxylgrmq455xz_1/media/27456795_10234042_lsievrnxylgrmq455xz_1@5256000p.m3u8?dw=14400&ts=1687014000&hdnts=exp=1687189825~acl=/streams/27456795_10234042_lsievrnxylgrmq455xz_1/media*~hmac=604318eec45475a84c11352bf1588a4ed498d37ca21cb40d2f6c27d250776af5
 
 #EXTINF:-1 tvg-id="DiscoveryKids2 " tvg-logo="https://www.sintelevisionhd.com/img/dkids.png" group-title="Undefined",Discovery Kids 2
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
