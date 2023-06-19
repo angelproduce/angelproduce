@@ -60,7 +60,7 @@ https://playback.akamaized.net/streams/27456795_10234042_lsilrs3jwjxyynxsq7w_1/m
 
 
 #EXTINF:-1 tvg-id="DiscoveryKids2 " tvg-logo="https://www.sintelevisionhd.com/img/dkids.png" group-title="Undefined",Discovery Kids 2
-https://playback.akamaized.net/streams/27456795_10234042_lsi99aikz4oykp7jwvm_1/media/27456795_10234042_lsi99aikz4oykp7jwvm_1@5256000p.m3u8?dw=14400&ts=1687024800&hdnts=exp=1687199247~acl=/streams/27456795_10234042_lsi99aikz4oykp7jwvm_1/media*~hmac=b5a32bb58779f56fbfb00ed71d520f5060c2fc89651b9161a01fae8b29d11b9a
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 
 
 #EXTINF:-1 tvg-id="Enlace" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png?resize=768%2C432&ssl=1" group-title="Undefined",Enlace
