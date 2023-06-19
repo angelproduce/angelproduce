@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Undefined",Telesistema (HD)
-https://stream-11.dc3.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2pYooLrMag7ZgEVOV6xnSFKGxxQAaSiKx84-dkbfkIpo)/dm/3/x80ac48/s/live-3.m3u8#cell=lcore
+https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2j5CZe4kaRbIcspbSMZdpoF_QqrNbxzSPJ252neiN20k)/dm/3/x80ac48/s/live-3.m3u8#cell=lcore
 
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas (Full HD)
-https://stream-08.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2lEGV-4ZFbdmPhRM39TaV7cbxDHcmqXRL-LbNRvgOvaw)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
+https://stream-06.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2tJJ60jYgtxDptR08a-mdjv6j7ln_A1weNKo1lTBZbNq)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
 
 #EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?PlaylistM3UCL
@@ -16,7 +16,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://live.teledom.info:3625/live/tra45live.m3u8
 
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Telemicro_2002_2.png" group-title="General",Telemicro (Full HD)
-https://playback.akamaized.net/streams/27456795_10633780_lsinfs6ttdb800jmaxh_1/media/27456795_10633780_lsinfs6ttdb800jmaxh_1@5256000p.m3u8?dw=14400&ts=1687014000&hdnts=exp=1687189491~acl=/streams/27456795_10633780_lsinfs6ttdb800jmaxh_1/media*~hmac=2acd314a00b736b77c416c3ac7d6750b4406a0a4d97fb5aab2c85e09ef84af67
+https://playback.akamaized.net/streams/27456795_10633798_lsimo167djt9fiklpox_1/media/27456795_10633798_lsimo167djt9fiklpox_1@2756000p.m3u8?dw=14400&ts=1687201200&hdnts=exp=1687375535~acl=/streams/27456795_10633798_lsimo167djt9fiklpox_1/media*~hmac=7d3e95826b870d4b77214e3cdcaa1b5f6147214770cb24e8802d0f53003fea77
 
 #EXTINF:-1 tvg-id="Antena7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Antena_Latina_2016.png/revision/latest/scale-to-width-down/200?cb=20200426023109" group-title="General",Antena 7
 https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
@@ -27,7 +27,7 @@ https://d1coqlhpf8wrax.cloudfront.net/hls/canal21_360.m3u8
 
 
 #EXTINF:-1 tvg-id="Digital15" tvg-logo="https://www.seekpng.com/png/detail/695-6950286_digital-quince-on-screen.png"Programacion",Digital 15 (HD)
-https://playback.akamaized.net/streams/27456795_10633798_lsifzs5qyrloirb69gb_1/media/27456795_10633798_lsifzs5qyrloirb69gb_1@2756000p.m3u8?dw=14400&ts=1687024800&hdnts=exp=1687199050~acl=/streams/27456795_10633798_lsifzs5qyrloirb69gb_1/media*~hmac=6a6227acf5e0d4a8e28214183f7a85c5487fe871a8d87019bcce2e8c8d4a7c5c
+https://playback.akamaized.net/streams/27456795_10633798_lsimo167djt9fiklpox_1/media/27456795_10633798_lsimo167djt9fiklpox_1@2756000p.m3u8?dw=14400&ts=1687201200&hdnts=exp=1687375727~acl=/streams/27456795_10633798_lsimo167djt9fiklpox_1/media*~hmac=5f7e51d86e07e71ba5bfab4e17df704440e5b71a41f5da264dacf63583f151a0
 
 #EXTINF:-1 tvg-id="Color Vision 9" tvg-logo=https://colorvision.com.do/wp-content/uploads/2021/05/LOGO-HD-full.png" group-title="General",Color Vision 9 (Full HD)
 https://stream-03.dc3.dailymotion.com/sec(O-7bth6lxCIslucX64-RY2Bq1z-bWjTryhDtKycvZCt2UQzN4qJGOHTnzGilEb8S)/dm/3/x7gy059/d/live-4.m3u8#cell=lcore
@@ -41,7 +41,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/c
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="Telecentro" tvg-logo="https://telecentro.com.do/wp-content/uploads/2021/08/logo01-150x150.png" group-title="Undefined",Telecentro (HD)
-https://playback.akamaized.net/streams/27456795_10234042_lsi99aikz4oykp7jwvm_1/media/27456795_10234042_lsi99aikz4oykp7jwvm_1@5256000p.m3u8?dw=14400&ts=1687024800&hdnts=exp=1687199247~acl=/streams/27456795_10234042_lsi99aikz4oykp7jwvm_1/media*~hmac=b5a32bb58779f56fbfb00ed71d520f5060c2fc89651b9161a01fae8b29d11b9a
+https://playback.akamaized.net/streams/27456795_10234042_lsilrs3jwjxyynxsq7w_1/media/27456795_10234042_lsilrs3jwjxyynxsq7w_1@5256000p.m3u8?dw=14400&ts=1687201200&hdnts=exp=1687375667~acl=/streams/27456795_10234042_lsilrs3jwjxyynxsq7w_1/media*~hmac=e27480a2b9fbb11e0941a4df295d6dd5470eb7efc695a91c543928508cfaab20
 
 
 #EXTINF:-1 tvg-id="DiscoveryKids2 " tvg-logo="https://www.sintelevisionhd.com/img/dkids.png" group-title="Undefined",Discovery Kids 2
