@@ -9,8 +9,11 @@ https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2j5CZe4kaRbIcspbSM
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas (Full HD)
 https://stream-06.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2tJJ60jYgtxDptR08a-mdjv6j7ln_A1weNKo1lTBZbNq)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
 
-#EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD | DO
+#EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD (HD) | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD | DO
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1983640036_b1631072_DVR.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Undefined",(Telemundo PR) (HD)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -19,10 +22,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://live.teledom.info:3625/live/tra45live.m3u8
 
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Telemicro_2002_2.png" group-title="General",Telemicro 
-https://tunzilla.com/https://telemicro.com.do/2022/ap/tex/0505.m3u8
+https://playback.akamaized.net/streams/27456795_10633780_lsivupga6pp2naiwffa_1/media/27456795_10633780_lsivupga6pp2naiwffa_1@1756000p.m3u8?dw=14400&ts=1687208400&hdnts=exp=1687381386~acl=/streams/27456795_10633780_lsivupga6pp2naiwffa_1/media*~hmac=543d3f4106e5dc1148f1fd237e3bbba6cda641a10178035ff9fd63367bb05115
 
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Telemicro_2002_2.png" group-title="General",Telemicro (Full HD)
-https://playback.akamaized.net/streams/27456795_10633798_lsimo167djt9fiklpox_1/media/27456795_10633798_lsimo167djt9fiklpox_1@2756000p.m3u8?dw=14400&ts=1687201200&hdnts=exp=1687375535~acl=/streams/27456795_10633798_lsimo167djt9fiklpox_1/media*~hmac=7d3e95826b870d4b77214e3cdcaa1b5f6147214770cb24e8802d0f53003fea77
+https://playback.akamaized.net/streams/27456795_10633780_lsivupga6pp2naiwffa_1/media/27456795_10633780_lsivupga6pp2naiwffa_1@5256000p.m3u8?dw=14400&ts=1687208400&hdnts=exp=1687381386~acl=/streams/27456795_10633780_lsivupga6pp2naiwffa_1/media*~hmac=543d3f4106e5dc1148f1fd237e3bbba6cda641a10178035ff9fd63367bb05115
 
 #EXTINF:-1 tvg-id="Antena7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Antena_Latina_2016.png/revision/latest/scale-to-width-down/200?cb=20200426023109" group-title="General",Antena 7
 https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
