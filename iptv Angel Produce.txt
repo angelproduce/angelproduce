@@ -43,6 +43,9 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/c
 #EXTINF:-1 tvg-id="Cartoonertwork" tvg-logo=https://1000marcas.net/wp-content/uploads/2020/03/logo-Cartoon-Network.png" group-title="General",Cartoon Network (Full HD)
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-id="Telecentro" tvg-logo="https://telecentro.com.do/wp-content/uploads/2021/08/logo01-150x150.png" group-title="Undefined",Telecentro 
+https://tunzilla.com/http://51.81.93.239:8084/hls/telecentro.m3u8
+
 #EXTINF:-1 tvg-id="Telecentro" tvg-logo="https://telecentro.com.do/wp-content/uploads/2021/08/logo01-150x150.png" group-title="Undefined",Telecentro (HD)
 https://playback.akamaized.net/streams/27456795_10234042_lsilrs3jwjxyynxsq7w_1/media/27456795_10234042_lsilrs3jwjxyynxsq7w_1@5256000p.m3u8?dw=14400&ts=1687201200&hdnts=exp=1687375667~acl=/streams/27456795_10234042_lsilrs3jwjxyynxsq7w_1/media*~hmac=e27480a2b9fbb11e0941a4df295d6dd5470eb7efc695a91c543928508cfaab20
 
