@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Undefined",Telesistema 
+https://tunzilla.com/http://51.81.106.157:8084/hls/tsistemas.m3u8
+
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Undefined",Telesistema (HD)
 https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2j5CZe4kaRbIcspbSMZdpoF_QqrNbxzSPJ252neiN20k)/dm/3/x80ac48/s/live-3.m3u8#cell=lcore
 
