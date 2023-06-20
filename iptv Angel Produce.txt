@@ -25,7 +25,7 @@ https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Color Vision 9" tvg-logo=https://colorvision.com.do/wp-content/uploads/2021/05/LOGO-HD-full.png" group-title="General",Color Vision 9
-https://stream-01.ix7.dailymotion.com/sec(O-7bth6lxCIslucX64-RYx8ZSjl1BsJHnXRQBaQHw8nhzoL0LeMf9PCKvVmkVRFU)/dm/3/x7gy059/d/live-2.m3u8#cell=lcore
+https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2mSNBsxYqDKAL6UNSeShHnqjiexI2v0nXT51PXE-YzNH)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
 
 
 
