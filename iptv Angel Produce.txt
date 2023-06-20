@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Undefined",Telesistema 
-https://stream-07.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2ni_kjfLYdNj17Sxok6bN3mA0lzx9o5TLEPJbe72aMjn)/dm/3/x80ac48/s/live-2.m3u8#cell=lcore
+https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2mSNBsxYqDKAL6UNSeShHnqjiexI2v0nXT51PXE-YzNH)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
 
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas (Full HD)
 https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2mSNBsxYqDKAL6UNSeShHnqjiexI2v0nXT51PXE-YzNH)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
