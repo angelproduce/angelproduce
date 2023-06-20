@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Undefined",Telesistema 
-https://tunzilla.com/http://51.81.106.157:8084/hls/tsistemas.m3u8
-
-#EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Undefined",Telesistema (HD)
 https://stream-07.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2ni_kjfLYdNj17Sxok6bN3mA0lzx9o5TLEPJbe72aMjn)/dm/3/x80ac48/s/live-2.m3u8#cell=lcore
 
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas (Full HD)
 https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2mSNBsxYqDKAL6UNSeShHnqjiexI2v0nXT51PXE-YzNH)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
+
+#EXTINF:-1 tvg-id="Antena21" tvg-logo="https://i.pinimg.com/736x/2b/2f/f2/2b2ff24a8ed172a42e2fc00a360c52fc.jpg" group-title="General",Antena 21
+https://d1coqlhpf8wrax.cloudfront.net/hls/canal21_360.m3u8
 
 #EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1983640036_b1631072_DVR.m3u8
@@ -27,8 +27,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Color Vision 9" tvg-logo=https://colorvision.com.do/wp-content/uploads/2021/05/LOGO-HD-full.png" group-title="General",Color Vision 9
 https://stream-01.ix7.dailymotion.com/sec(O-7bth6lxCIslucX64-RYx8ZSjl1BsJHnXRQBaQHw8nhzoL0LeMf9PCKvVmkVRFU)/dm/3/x7gy059/d/live-2.m3u8#cell=lcore
 
-#EXTINF:-1 tvg-id="Antena21" tvg-logo="https://i.pinimg.com/736x/2b/2f/f2/2b2ff24a8ed172a42e2fc00a360c52fc.jpg" group-title="General",Antena 21
-https://d1coqlhpf8wrax.cloudfront.net/hls/canal21_360.m3u8
+
 
 #EXTINF:-1 tvg-id="CDN" tvg-logo=https://cdn.com.do/wp-content/uploads/2022/05/1edd3810-logo-autor-150x150.jpeg" group-title="General",CDN (Full HD)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1683663574&e=1683663694&h=e3c325e0de0b1629575f75db90aa4065
@@ -55,8 +54,6 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b3112000_
 #EXTINF:-1 tvg-id="Lavozdemaria " tvg-logo="https://2.bp.blogspot.com/-SHVI5Wrt3Y0/W1s9_eFdd0I/AAAAAAAAGjg/B6FWEm79rWYa6KLRx_ugIz16qSHLHViPACLcBGAs/s1600/la%2Bvoz%2Bde%2Bmaria%2Ben%2Bvivo.png" group-title="Religioso",La Voz de Maria
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w1152368277.m3u8
 
-#EXTINF:-1 tvg-id="Discoveryhomeandhealth" tvg-logo="https://www.brandemia.org/wp-content/uploads/2011/05/logo_ok.jpg" group-title="Undefined",Discovery home and health
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoUFR7U-Y2Nu8Q-1Qk2BNeVLemWtRVWNQ9QpBCgUWFEHVRojkOA1_n4pvd62fqvEpE1cy4VdepR0MxJo9sqsyKEr2EnEQ_ztGkhCbd9xdYyHKHnL3AufafKxAGJ0HSHbc5eet6hdXWu3IAtsxBehRZv5BrtZ8HZUreICHofmq9p9tsJY_7WJbARWmba3mjlmcQbTQL9Z4q_Ux3HI5Yck2AaMA7iwKkUDHEdou9BRqxjkD0nimPQVvDS3RcTXkvYyAvrmSdWVmsLZqRJvE1EPX_MzX-RhdlHeox5h5uwcLXnQfxipDRFHZxqRZcHi2ti9JAr-xAMWKgyifwbUSbXnIcSFOZHCiTlX7rpmY1bVt6BuzR8JPo4XVxRBxWSwM843mr7GEn8W3d8DiSCJL1Soop5rhW4BHjiSo2MLL4FXwBSpk-9tsw8W0rMpGsXSuzn8hc9M4F6ysDtVsWUXph_xSLxJsoP-e8RpKlLrpMD4FU7_pgGwYzupZF384EhdOUQZhdCoHzDKvCcXpRfCLR4T4N9pq1iFwEPrd7gUETppLBHPThB30eZQzSsgXki9ObscJru7srjn_W6h0X0cJ9k5GJvquN82UDLJD79K3k10CxnOzXf185XWHjsh4PAT0klHYuV7BDBqfXt4adnQFKCAVbQKhmx85CDVVdKzov4kWIlKuT32tYYTzRnyJSUfBYBT6WOZSKMdFN7y80GyKVUBHTxyQ1Pf4UnrNhap7cV_7XkK7dRfTfVvlgUsKjzg8Zi9szmwMQLOsn40tZ0StGhuPveLI_OasLYxoArIfV_FO5a2G2JHAp2DHN8VulvN_sQ52zbtPV3eS9BncU7FeWZTH87hrEV80z83GgxC3xLxVNQhJeQaafQgASoJZXUtd2VzdC0yMMYG.m3u8
 
 #EXTINF:-1 tvg-id="GHTelevision" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2143-294x165-FFFFFF.jpg" group-title="Programacion",GH Television 
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
