@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Undefined",Telesistema 
 https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2mSNBsxYqDKAL6UNSeShHnqjiexI2v0nXT51PXE-YzNH)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
 
-#EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas (Full HD)
+#EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas HD
 https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2mSNBsxYqDKAL6UNSeShHnqjiexI2v0nXT51PXE-YzNH)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
 
 #EXTINF:-1 tvg-id="Antena21" tvg-logo="https://i.pinimg.com/736x/2b/2f/f2/2b2ff24a8ed172a42e2fc00a360c52fc.jpg" group-title="General",Antena 21
