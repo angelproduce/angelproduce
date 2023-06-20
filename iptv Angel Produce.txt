@@ -31,7 +31,7 @@ https://stream-12.dc3.dailymotion.com/sec(O-7bth6lxCIslucX64-RY3OcI1kqm0npQjEHRT
 #EXTINF:-1 tvg-id="CDN" tvg-logo=https://cdn.com.do/wp-content/uploads/2022/05/1edd3810-logo-autor-150x150.jpeg" group-title="General",CDN (Full HD)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1683663574&e=1683663694&h=e3c325e0de0b1629575f75db90aa4065
 
-#EXTINF:-1 tvg-id="DiscoveryKids2 " tvg-logo="https://www.sintelevisionhd.com/img/dkids.png" group-title="Undefined",Discovery Kids 2
+#EXTINF:-1 tvg-id="DiscoveryKids2 " tvg-logo="https://www.sintelevisionhd.com/img/dkids.png" group-title="Undefined",Discovery Kids 2 HD
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="Telecentro" tvg-logo="https://telecentro.com.do/wp-content/uploads/2021/08/logo01-150x150.png" group-title="Undefined",Telecentro 
