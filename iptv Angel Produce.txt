@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Undefined",Telesistema 
-https://stream-02.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2g_F_dijVLQMrkKO3_3NsLn0bxmaF-ENDTg2hEVbbOVM)/dm/3/x80ac48/s/live-2.m3u8#cell=lcore
+https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2rKEbWX1YO98dwrVdhztWlae7ccZWUxK3eegUWd_P7Nf)/dm/3/x80ac48/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas 
 https://stream-07.dc3.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2p1WKxTdt8zHn0F7ey4KlItCaJ7oaBaZl7OWIeUP_T_6)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
@@ -27,8 +27,17 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Color Vision 9" tvg-logo=https://colorvision.com.do/wp-content/uploads/2021/05/LOGO-HD-full.png" group-title="General",Color Vision 9
 https://stream-12.dc3.dailymotion.com/sec(O-7bth6lxCIslucX64-RY3OcI1kqm0npQjEHRTNg8f06q6CSK-I5gbREQp3Pstqt)/dm/3/x7gy059/d/live-2.m3u8#cell=lcore
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Novelas",Canela Telenovelas
+#EXTINF:-1 tvg-id="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/image.jpg" group-title="Novelas",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Series",13 Teleseries (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1 tvg-id="JuntosTV.us" tvg-logo="https://i.imgur.com/dgMZLC2.png" group-title="Series",Juntos (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="JuntosTV.cl" tvg-logo="https://i.imgur.com/U62q2eM.png" group-title="Undefined",Juntos TV (720p)
+https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 
 #EXTINF:-1 tvg-id="CDN" tvg-logo=https://cdn.com.do/wp-content/uploads/2022/05/1edd3810-logo-autor-150x150.jpeg" group-title="General",CDN (Full HD)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1683663574&e=1683663694&h=e3c325e0de0b1629575f75db90aa4065
@@ -92,11 +101,14 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather 
 https://247wlive.foxweather.com/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",Pluto TV MLB 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-logo="https://i.imgur.com/4Ww7CsR.png" group-title="Music",1HD Music Television (404p) [Not 24/7]
+https://sc.id-tv.kz/1hd.m3u8
 
-#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports",Pluto TV NFL Channel 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
+#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports (720p)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts
 
 #EXTINF:-1 tvg-id="W14DKD5.us" tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Sports",W14DK-D 14.5 All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
