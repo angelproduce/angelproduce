@@ -4,28 +4,28 @@
 https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2rKEbWX1YO98dwrVdhztWlae7ccZWUxK3eegUWd_P7Nf)/dm/3/x80ac48/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas 
-https://stream-07.dc3.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2p1WKxTdt8zHn0F7ey4KlItCaJ7oaBaZl7OWIeUP_T_6)/dm/3/x809r6i/s/live-1.m3u8#cell=lcore
+https://stream-01.nyc.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsd_znqeVBL00vZAKPsLWiG6pf5-em1TvVNbO_LKZRjix)/dm/3/x8mwmvs/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Antena21" tvg-logo="https://i.pinimg.com/736x/2b/2f/f2/2b2ff24a8ed172a42e2fc00a360c52fc.jpg" group-title="General",Antena 21
-https://d1coqlhpf8wrax.cloudfront.net/hls/canal21_360.m3u8
+https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/Canal21DO/Canal21DO1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1983640036_b1631072_DVR.m3u8
 
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Telemicro_2002_2.png" group-title="General",Telemicro 
-https://playback.akamaized.net/streams/27456795_10633780_lsivupga6pp2naiwffa_1/media/27456795_10633780_lsivupga6pp2naiwffa_1@1756000p.m3u8?dw=14400&ts=1687208400&hdnts=exp=1687381386~acl=/streams/27456795_10633780_lsivupga6pp2naiwffa_1/media*~hmac=543d3f4106e5dc1148f1fd237e3bbba6cda641a10178035ff9fd63367bb05115
+https://playback.akamaized.net/streams/27456795_10633780_lsi0tetf5nx5u3kad8m_1/media/27456795_10633780_lsi0tetf5nx5u3kad8m_1@1756000p.m3u8?dw=14400&ts=1692306000&hdnts=exp=1692479398~acl=/streams/27456795_10633780_lsi0tetf5nx5u3kad8m_1/media*~hmac=7d62075154a7718150b35634f5b65ae2ddb347bea7d63d9547167cccf61e4f48
 
 #EXTINF:-1 tvg-id="Tra Noticia" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo2023.png" group-title="Undefined",Tra Noticia 
 https://live.teledom.info:3625/live/tra45live.m3u8
 
 #EXTINF:-1 tvg-id="Antena7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Antena_Latina_2016.png/revision/latest/scale-to-width-down/200?cb=20200426023109" group-title="General",Antena 7
-https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
+https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Undefined",(Telemundo PR) 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Color Vision 9" tvg-logo=https://colorvision.com.do/wp-content/uploads/2021/05/LOGO-HD-full.png" group-title="General",Color Vision 9
-https://stream-12.dc3.dailymotion.com/sec(O-7bth6lxCIslucX64-RY3OcI1kqm0npQjEHRTNg8f06q6CSK-I5gbREQp3Pstqt)/dm/3/x7gy059/d/live-2.m3u8#cell=lcore
+https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYy7thqH-ZP4Po-ZC8mjFUCP3wpUulFJ8e14ZE_DFGVCD)/dm/3/x7gy059/d/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/image.jpg" group-title="Novelas",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
@@ -52,7 +52,7 @@ https://tunzilla.com/http://51.81.93.239:8084/hls/telecentro.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="Digital15" tvg-logo="https://www.seekpng.com/png/detail/695-6950286_digital-quince-on-screen.png"Programacion",Digital 15 
-https://playback.akamaized.net/streams/27456795_10633798_lsimo167djt9fiklpox_1/media/27456795_10633798_lsimo167djt9fiklpox_1@2756000p.m3u8?dw=14400&ts=1687201200&hdnts=exp=1687375727~acl=/streams/27456795_10633798_lsimo167djt9fiklpox_1/media*~hmac=5f7e51d86e07e71ba5bfab4e17df704440e5b71a41f5da264dacf63583f151a0
+https://playback.akamaized.net/streams/27456795_10633798_lsiej2615ql8fg35nxc_1/media/27456795_10633798_lsiej2615ql8fg35nxc_1@1756000pb.m3u8?dw=14400&ts=1692306000&hdnts=exp=1692479331~acl=/streams/27456795_10633798_lsiej2615ql8fg35nxc_1/media*~hmac=f1eac38230345cef165ecd361fd2a8b062cfe27d829a7c67a53ef5de3965be05
 
 #EXTINF:-1 tvg-id="Cartoonertwork" tvg-logo=https://1000marcas.net/wp-content/uploads/2020/03/logo-Cartoon-Network.png" group-title="General",Cartoon Network (Full HD)
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
@@ -116,8 +116,6 @@ https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",Xtrema Cine Acción 
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (Sony Movie Channel)
-http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineTerror.us" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Movies",Pluto TV Cine Terror 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
@@ -134,21 +132,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="Movies",Cine Sureño 
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony 
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",A3Cine 
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Cultura",Fox Soul 
 https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="NetalkoleTV " tvg-logo="https://image.roku.com/developer_channels/prod/3e29a6f245b27eee2ba0f40056810475af4d93211c5a77439faae997f2ea5d1d.png" group-title="Cultura",Netalkole TV (Haiti)
-https://watch.haitilive.net/gethb/naktv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TelePacificHaiti" tvg-logo="https://www.haititelevision.com/wp-content/uploads/2018/03/tele_pacific.png" group-title="Cultura",Tele Pacific Haiti
-https://pacific.zekletech.com:2002/live/acw_01/index.m3u8
 
 
 
