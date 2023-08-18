@@ -6,8 +6,6 @@ https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2iSDmYYyuvt8-v_lbO
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas 
 https://stream-02.nyc.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsSbBsM9NWIjxkkv2sn6eYYgK-f5conZ4ziKzPLo2Vctd)/dm/3/x8mwmvs/s/live-1.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-id="Antena21" tvg-logo="https://i.pinimg.com/736x/2b/2f/f2/2b2ff24a8ed172a42e2fc00a360c52fc.jpg" group-title="General",Antena 21
-https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/Canal21DO/Canal21DO1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1983640036_b1631072_DVR.m3u8
