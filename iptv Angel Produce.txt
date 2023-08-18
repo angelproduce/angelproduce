@@ -4,7 +4,7 @@
 https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2iSDmYYyuvt8-v_lbOJYN0dRYK-TbqaYNl_I34MljJCa)/dm/3/x80ac48/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas 
-https://stream-01.nyc.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsd_znqeVBL00vZAKPsLWiG6pf5-em1TvVNbO_LKZRjix)/dm/3/x8mwmvs/s/live-1.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsSbBsM9NWIjxkkv2sn6eYYgK-f5conZ4ziKzPLo2Vctd)/dm/3/x8mwmvs/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Antena21" tvg-logo="https://i.pinimg.com/736x/2b/2f/f2/2b2ff24a8ed172a42e2fc00a360c52fc.jpg" group-title="General",Antena 21
 https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/Canal21DO/Canal21DO1/chunks.m3u8
@@ -13,7 +13,7 @@ https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1983640036_b1631072_DVR.m3u8
 
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Telemicro_2002_2.png" group-title="General",Telemicro 
-https://playback.akamaized.net/streams/27456795_10633780_lsi0tetf5nx5u3kad8m_1/media/27456795_10633780_lsi0tetf5nx5u3kad8m_1@1756000p.m3u8?dw=14400&ts=1692306000&hdnts=exp=1692479398~acl=/streams/27456795_10633780_lsi0tetf5nx5u3kad8m_1/media*~hmac=7d62075154a7718150b35634f5b65ae2ddb347bea7d63d9547167cccf61e4f48
+https://stream-02.nyc.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsSbBsM9NWIjxkkv2sn6eYYgK-f5conZ4ziKzPLo2Vctd)/dm/3/x8mwmvs/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Tra Noticia" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo2023.png" group-title="Undefined",Tra Noticia 
 https://live.teledom.info:3625/live/tra45live.m3u8
