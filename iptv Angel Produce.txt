@@ -25,7 +25,7 @@ https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Color Vision 9" tvg-logo=https://colorvision.com.do/wp-content/uploads/2021/05/LOGO-HD-full.png" group-title="General",Color Vision 9
-https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYy7thqH-ZP4Po-ZC8mjFUCP3wpUulFJ8e14ZE_DFGVCD)/dm/3/x7gy059/d/live-2.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY3p4h9Bv-DxoTZK2dIw_Xv7TorGUKtT7sbfy4QBwzSUF)/dm/3/x7gy059/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/image.jpg" group-title="Novelas",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
