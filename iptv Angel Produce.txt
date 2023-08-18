@@ -13,7 +13,7 @@ https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1983640036_b1631072_DVR.m3u8
 
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Telemicro_2002_2.png" group-title="General",Telemicro 
-https://stream-02.nyc.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsSbBsM9NWIjxkkv2sn6eYYgK-f5conZ4ziKzPLo2Vctd)/dm/3/x8mwmvs/s/live-1.m3u8#cell=lnyc
+https://playback.akamaized.net/streams/27456795_10633780_lsiax1hm5rf1ikrizlj_1/media/27456795_10633780_lsiax1hm5rf1ikrizlj_1@2756000pb.m3u8?dw=14400&ts=1692360000&hdnts=exp=1692536076~acl=/streams/27456795_10633780_lsiax1hm5rf1ikrizlj_1/media*~hmac=b9d96ee56ae8ac806e12c7332252d310ac210be01c47fbef71c534e31c73aebc
 
 #EXTINF:-1 tvg-id="Tra Noticia" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo2023.png" group-title="Undefined",Tra Noticia 
 https://live.teledom.info:3625/live/tra45live.m3u8
