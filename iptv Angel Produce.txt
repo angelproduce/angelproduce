@@ -6,9 +6,6 @@ https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2iSDmYYyuvt8-v_lbO
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="General",Teleantillas 
 https://stream-02.nyc.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsSbBsM9NWIjxkkv2sn6eYYgK-f5conZ4ziKzPLo2Vctd)/dm/3/x8mwmvs/s/live-1.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-id="TeleAntillas.do" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="Undefined",Tele Antillas (480p)
-https://tunzilla.com/http://51.81.106.157:8084/hls/tantillas.m3u8
-
 
 #EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1983640036_b1631072_DVR.m3u8
@@ -30,6 +27,9 @@ https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY3p4h9Bv-DxoTZK2dI
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/image.jpg" group-title="Novelas",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1, Animal Planet www.achoapps.com
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
 #EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Series",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
